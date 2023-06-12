@@ -1,3 +1,3 @@
 # qqq_trend_prediction
 
-![alt text](price ratio.png)
+![alt text](price_ratio.png)
